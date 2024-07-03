@@ -4,7 +4,7 @@ API RESTful para Sistema de Usuários de Carros
 ## Ferramentas e Tecnologias utilizadas
 
 -   Java 17
--   Spring
+-   Spring 3.3.1
 -   Lombok
 -   JPA - Hibernate
 -   HttpClient
@@ -26,4 +26,5 @@ API RESTful para Sistema de Usuários de Carros
 
 ## API Endpoint's
 
-(Resevado Documentação Swagger)
+LOCALHOST:
+Acessar o link - http://localhost:8090/swagger-ui/index.html
